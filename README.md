@@ -1,1 +1,1 @@
-Разное для DS
+Code for DS
